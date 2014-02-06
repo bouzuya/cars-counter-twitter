@@ -1,0 +1,33 @@
+{
+  "name": "cars-counter-twitter",
+  "version": "0.0.0",
+  "description": "A cars counter for Twitter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --invert --grep '\\[slow\\]'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bouzuya/cars-counter-twitter.git"
+  },
+  "keywords": [
+    "cars",
+    "cars-counter",
+    "twitter"
+  ],
+  "author": "bouzuya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bouzuya/cars-counter-twitter/issues"
+  },
+  "homepage": "https://github.com/bouzuya/cars-counter-twitter",
+  "dependencies": {
+    "twitter": "~0.2.5"
+  },
+  "devDependencies": {
+    "chai": "~1.9.0",
+    "mocha": "~1.17.1",
+    "sinon": "~1.8.1",
+    "sinon-chai": "~2.5.0"
+  }
+}
