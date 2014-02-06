@@ -1,6 +1,6 @@
 {
   "name": "cars-counter-twitter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A cars counter for Twitter.",
   "main": "index.js",
   "scripts": {
