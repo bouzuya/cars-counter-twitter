@@ -3,14 +3,17 @@ cars-counter-twitter
 
 A [cars](https://github.com/bouzuya/cars) counter for Twitter.
 
-Configuration
-------------------------------------------------------------------------------
+## Configuration
 
-    $ export TWITTER_USERNAME='your username'
-    $ export TWITTER_CONSUMER_KEY='your consumer key'
-    $ export TWITTER_CONSUMER_SECRET='your consumer secret'
-    $ export TWITTER_ACCESS_TOKEN='your access token'
-    $ export TWITTER_ACCESS_TOKEN_SECRET='your access token secret'
+```bash
+export TWITTER_ACCESS_TOKEN='your access token'
+export TWITTER_ACCESS_TOKEN_SECRET='your access token secret'
+export TWITTER_CONSUMER_KEY='your consumer key'
+export TWITTER_CONSUMER_SECRET='your consumer secret'
+export TWITTER_USERNAME='your username'
+```
+
+See: [`_env`](_env).
 
 ## License
 
