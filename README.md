@@ -12,3 +12,12 @@ Configuration
     $ export TWITTER_ACCESS_TOKEN='your access token'
     $ export TWITTER_ACCESS_TOKEN_SECRET='your access token secret'
 
+## License
+
+### >= 1.0.0
+
+[MIT](LICENSE)
+
+### < 0.x
+
+ISC
